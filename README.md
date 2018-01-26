@@ -3,7 +3,7 @@ Rustcon2k18 is an event based on RUST programming language organized by mozilla 
 
 ## Events : 
 
-*
+* [RUSTCON2k18 MANGALORE](/RUSTCON2K18_MANGALORE.md)
 
 ## Code of conduct
 * [Code of conduct](/Licence.md)
