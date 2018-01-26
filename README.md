@@ -5,6 +5,10 @@ Rustcon2k18 is an event based on RUST programming language organized by mozilla 
 
 * [RUSTCON2k18 MANGALORE](/RUSTCON2K18_MANGALORE.md)
 
+## Community Channels: 
+* [Telegram Channel Link](https://t.me/rusthacks)
+* [Follow us on Twitter](https://twitter.com/rusthack)
+
 ## Code of conduct
 * [Code of conduct](/Licence.md)
 
