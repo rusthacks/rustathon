@@ -8,6 +8,8 @@ Rustcon2k18 is an event based on RUST programming language organized by mozilla 
 ## Community Channels: 
 * [Telegram Channel Link](https://t.me/rusthacks)
 * [Follow us on Twitter](https://twitter.com/rusthack)
+* [Join the Facebook Group](https://www.facebook.com/groups/rusthacks)
+
 
 ## Code of conduct
 * [Code of conduct](/Licence.md)
