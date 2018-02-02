@@ -1,9 +1,9 @@
-# rustcon2k18IN
+# rustathon2k18IN
 Rustcon2k18 is an event based on RUST programming language organized by mozilla community India.
 
 ## Events : 
 
-* [RUSTCON2k18 MANGALORE](/RUSTCON2K18_MANGALORE.md)
+* [RUSTATHON2k18 MANGALORE](/RUSTCON2K18_MANGALORE.md)
 
 ## Community Channels: 
 * [Telegram Channel Link](https://t.me/rusthacks)
