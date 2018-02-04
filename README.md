@@ -11,16 +11,13 @@ RUSTATHON2K18 is an event based on RUST programming language organized by mozill
 * [Join the Facebook Group](https://www.facebook.com/groups/rusthacks)
 
 ## Submitting your projects:
-* **Step 1**: Fork this repository, and create a sub-directory inside the `Projects` sub-directory with the name of your Project.
+* **Step 1**: Fork this repository, and create a sub-directory inside the `Projects` directory with the name of your Project.
 ```
-- rustcon2k18IN
-    |
-    - Projects
-        |
-        - [Your Project sub-directory]
-            |
-            + ... All your project Files
-            + [Readme.md Describing your project]
+- rustathon2k18IN
+    └──  Projects
+        └──  [Your Project sub-directory]
+            ├── All your project Files
+            └── [Readme.md Describing your project]
 
 ```
 * **Step 2**: Start hacking on the best Rust project you can think of.
