@@ -14,13 +14,10 @@ RUSTATHON2K18 is an event based on RUST programming language organized by mozill
 * **Step 1**: Fork this repository, and create a sub-directory inside the `Projects` sub-directory with the name of your Project.
 ```
 - rustcon2k18IN
-    |
-    - Projects
-        |
-        - [Your Project sub-directory]
-            |
-            + ... All your project Files
-            + [Readme.md Describing your project]
+    ├── Projects
+        ├── [Your Project sub-directory]
+            ├── All your project Files
+            ├── [Readme.md Describing your project]
 
 ```
 * **Step 2**: Start hacking on the best Rust project you can think of.
