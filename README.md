@@ -13,7 +13,7 @@ RUSTATHON2K18 is an event based on RUST programming language organized by mozill
 ## Submitting your projects:
 * **Step 1**: Fork this repository, and create a sub-directory inside the `Projects` directory with the name of your Project.
 ```
-- rustcon2k18IN
+- rustathon2k18IN
     ├── Projects
         ├── [Your Project sub-directory]
             ├── All your project Files
