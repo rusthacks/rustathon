@@ -1,1 +1,3 @@
 [Rustathon2k18](https://www.rustathon2k18.in/) is an event based on RUST programming language organized by mozilla community in association with New Age Incubation Centre  and Sahyadri hub of Innovation and Entrepreneurship.Rust is a systems programming language important to the future of the web. It runs blazingly fast, prevents segfaults, and guarantees thread safety. With your help, we want more developers to understand, use and evangelize this language in order to make the web better and more secure. This event is a part of the MozActiviate campaign of mozilla.
+
+![rustathon2k18_mangalore](https://user-images.githubusercontent.com/11514627/35874240-0157f78c-0b92-11e8-9396-13c3f0cb8807.jpg)
