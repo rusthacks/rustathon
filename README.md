@@ -39,4 +39,4 @@ Project Description:
 ## Code of conduct
 * [Code of conduct](/Licence.md)
 
-For any queries raise a [issue](https://github.com/rusthacks/rustcon2k18IN/issues) and please feel free to submit a PR anytime :)
+For any queries raise a [issue](https://github.com/rusthacks/rustcon2k18IN/issues) and please feel free to submit a PR anytime or you can contact Manjesh shetty via telegram (@mozshetty)
